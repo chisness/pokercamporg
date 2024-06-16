@@ -1,5 +1,25 @@
 project:
-  title: "pokercamporg"
+  type: website
+  output-dir: docs
 
+website:
+  title: "Poker Camp"
+  open-graph: true
+  # google-analytics: 
+  # favicon: 
+  navbar: 
+    background: primary
+    right: 
+      - text: "Poker Camp Courses"
+        href: https://poker.camp 
 
-
+format:
+  html:
+    theme: cerulean
+    math: true 
+    toc: true
+    toc-expand: true
+    mathjax: 
+      config: 
+        text: 
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
