@@ -5,6 +5,6 @@ Welcome to Poker Camp. This is the parent site for ABC
 
 Image
 
-Mission 
+Mission:  
 
-Donations
+[Donate (Test link)](https://donate.stripe.com/test_8wMg0m5cH8NW9eU3cc)
